@@ -10,7 +10,10 @@ We have named our project as:
 
 The notebooks are named with respect to the domain of interest
 
-The acquired datasets can be found in the root folder and the path is set default to root in the code. Necessary comments are added within each notebook's cells for better readability
+The acquired datasets can be found in the google drive link mentioned below: 
+https://drive.google.com/drive/folders/1otKKrEH_eZK1UP8lPXBnKvJpZ_EI60a5?usp=sharing
+
+dataset path is set default to root in the code. Necessary comments are added within each notebook's cells for better readability
 
 The notbooks can be run locally through Jupyter Notebooks with Conda activated environment (base/others)
 
